@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Maintainer contact: krpv.unit@proton.me  
+Old project inbox, mostly for archival notes.
+
 <!--
 **krpvunit/krpvunit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
